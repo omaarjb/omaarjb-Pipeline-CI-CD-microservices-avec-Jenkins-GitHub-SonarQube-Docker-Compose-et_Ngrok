@@ -4,7 +4,7 @@
 ---
 
 ### 2. Docker Containers
-<img width="1637" height="360" alt="image" src="https://github.com/user-attachments/assets/1e930431-3763-49d4-b17f-ea3473b5a0fb" />
+<img width="1613" height="340" alt="image" src="https://github.com/user-attachments/assets/3138356b-42a5-4b3a-a5bb-ced20d9d5efc" />
 
 ---
 
